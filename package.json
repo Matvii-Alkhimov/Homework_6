@@ -1,0 +1,21 @@
+{
+  "name": "homework_6",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "description": "",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "pnotify": "^5.2.0",
+    "validator": "^13.9.0"
+  }
+}
